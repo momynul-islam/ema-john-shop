@@ -1,3 +1,9 @@
+# EMA-JOHN-SHOP WESITE
+
+## REACT JS
+
+## Credit - Programming Hero
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
